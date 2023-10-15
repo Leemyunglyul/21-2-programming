@@ -1,0 +1,5 @@
+ham	I will buy a new phone
+spam	buy our product, change your old phone
+spam	pay attention to our new product
+ham	let's discuss about our homework
+ham	I think it is new one

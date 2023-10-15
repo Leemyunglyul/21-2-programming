@@ -1,0 +1,21 @@
+Ham: 3, Spam: 2
+about,1,0
+attention,0,1
+buy,1,1
+change,0,1
+discuss,1,0
+homework,1,0
+is,1,0
+it,1,0
+let,1,0
+new,2,1
+old,0,1
+one,1,0
+our,1,2
+pay,0,1
+phone,1,1
+product,0,2
+think,1,0
+to,0,1
+will,1,0
+your,0,1
